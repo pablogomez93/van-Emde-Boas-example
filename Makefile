@@ -1,5 +1,5 @@
 all:
-	@g++ -std=c++11 tests.cpp vEB.cpp -o vEB
+	@g++ -std=c++11 test.cpp vEB.cpp -o vEB
 
 runtests:
 	./vEB
